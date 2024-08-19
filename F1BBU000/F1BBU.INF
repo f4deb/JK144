@@ -1,0 +1,52 @@
+<TstHost 1.43bF(dfe), UTC -2, message diffus le Mar Sep 28 23:46:53 1999>
+
+
+REALISEZ UN TRANSCEIVER 144 DSB A CONVERSION DIRECTE
+
+je vais diffuser une serie d'articles concernant la realisation d'un transceiver
+144 a conversion directe
+ce transceiver est construit a partir de modules facilement realisables
+connectes entre eux dont voici la liste
+
+
+F1BBU001 AMPLI BF + INTERCONNECTION DES MODULES
+F1BBU003 VXO
+F1BBU004 MODULATEUR
+F1BBU005 AMPLI LINEAIRE 750MW
+F1BBU009 TETE HF UNIVERSELLE EMMISSION RECEPTION
+F1BBU012 PREAMPLI VHF
+
+Ces modules sont tous compatibles entre eux et sont utilisables pour
+d autre montages
+
+les articles ont ete ecrits avec le logiciel WORKS et sont egalement
+lisibles avec l editeur du dos  mis a part quelques petits problemes
+de mise en pages
+les schemas et tous les plans de  montage sont au format BMP
+le tout sera envoye progressivement en fichiers zip autodecompactables
+dans la rubrique TECHNI
+
+Je fourni tous ses modules en kit pret a monter avec la notice complete
+ou circuit imprime seul
+ainsi que tous composants electroniques au details a prix OM
+
+Je vous souhaite une bonne lecture et une bonne realisation
+73 QRO
+
+Jacques LE GOFF
+F1BBU
+5 RUE DES BAS MOULINS
+44800 ST HERBLAIN
+
+tel et fax 02 40 95 12 12
+
+
+    ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+    บ                     F1BBU @ F5KEQ.FPDL.FRA.EU                        บ
+    บ      JACQUES *** QTH:ST HERBLAIN *** DEP:44 *** LOCATOR :IN97EF      บ
+    บ                    Bon Trafic       73's   QRO                       บ                                                                      บ
+    บ                                                                      บ
+    บ              TSTHOST1.43BF +BAYCOM   TX RX HOME MADE                 บ
+    ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+
