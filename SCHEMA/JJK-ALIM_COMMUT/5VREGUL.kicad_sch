@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3ebd21a1-7529-4e2c-b223-aecbb3448ca9")
+	(paper "A4")
+	(title_block
+		(title "JJK-144")
+		(date "2024-10-04")
+		(rev "V0-10")
+		(company "F4DEB")
+	)
+	(lib_symbols)
+)

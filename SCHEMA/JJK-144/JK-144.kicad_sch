@@ -1,0 +1,290 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "92ad2de1-caf8-416f-a160-bbaf1722e2a6")
+	(paper "A4")
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 201.93 53.34) (xy 218.44 53.34)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 62 109 47 1)
+		)
+		(uuid "1164e297-00d8-4e99-a52b-4c193152f309")
+	)
+	(polyline
+		(pts
+			(xy 86.36 36.83) (xy 105.41 36.83)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 4 0 1)
+		)
+		(uuid "2c1e031c-903b-4d04-90c6-6efb7413b109")
+	)
+	(polyline
+		(pts
+			(xy 201.93 36.83) (xy 218.44 36.83)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 4 0 1)
+		)
+		(uuid "38e1ba41-8901-4361-b16b-cde676ac8abd")
+	)
+	(polyline
+		(pts
+			(xy 146.05 36.83) (xy 165.1 36.83)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 4 0 1)
+		)
+		(uuid "4be7a4eb-763f-40d4-a518-363800fd1d0d")
+	)
+	(polyline
+		(pts
+			(xy 74.93 60.96) (xy 74.93 87.63)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 62 109 47 1)
+		)
+		(uuid "69b58e83-2ca7-4178-8901-7ce551aa95ee")
+	)
+	(polyline
+		(pts
+			(xy 140.97 59.69) (xy 140.97 86.36)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 127 79 210 1)
+		)
+		(uuid "720f4d75-89ba-4f37-9e4a-2e1bb32eddbf")
+	)
+	(polyline
+		(pts
+			(xy 146.05 53.34) (xy 165.1 53.34)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 62 109 47 1)
+		)
+		(uuid "90534b88-15c7-49f8-87b0-06bac2f74df9")
+	)
+	(polyline
+		(pts
+			(xy 82.55 60.96) (xy 115.57 86.36)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 127 79 210 1)
+		)
+		(uuid "933f9497-bd71-45bb-8f84-26661546f5dc")
+	)
+	(polyline
+		(pts
+			(xy 86.36 53.34) (xy 105.41 53.34)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 62 109 47 1)
+		)
+		(uuid "e6c8d36e-9a58-4d9f-8596-b7e207fa5b92")
+	)
+	(polyline
+		(pts
+			(xy 50.8 60.96) (xy 50.8 87.63)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 4 0 1)
+		)
+		(uuid "fc2d3535-0af5-4eb8-a318-7867dbf97552")
+	)
+	(text_box "ALIM/COMMUT"
+		(exclude_from_sim no)
+		(at 69.85 146.05 0)
+		(size 58.42 33.02)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 17 26 255 1)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.635)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "45943ca2-07cd-4012-ac64-76a5ae885cc8")
+	)
+	(text_box "AMPLIFIER"
+		(exclude_from_sim no)
+		(at 218.44 30.48 0)
+		(size 44.45 29.21)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 255 91 0 1)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "5851bf85-bce2-4550-830a-9f3e8658b42d")
+	)
+	(text_box "AUDIO"
+		(exclude_from_sim no)
+		(at 40.64 87.63 0)
+		(size 40.64 30.48)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 255 220 13 1)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+				(color 32 58 24 1)
+			)
+		)
+		(uuid "612908fd-fb80-462c-a699-1a17380f8859")
+	)
+	(text_box "MOD/DEMOD"
+		(exclude_from_sim no)
+		(at 34.29 30.48 0)
+		(size 52.07 30.48)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 132 13 187 1)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.635)
+				(color 78 255 75 1)
+			)
+		)
+		(uuid "6f0ef30c-7745-4c6a-a333-4295ffd8e1f4")
+	)
+	(text_box "TETE 144MHZ"
+		(exclude_from_sim no)
+		(at 165.1 30.48 0)
+		(size 36.83 29.21)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 0 0 0 1)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.635)
+				(color 236 221 255 1)
+			)
+		)
+		(uuid "96c66686-cd9e-44e9-80b2-dafee0ca10a9")
+	)
+	(text_box "CPU"
+		(exclude_from_sim no)
+		(at 176.53 132.08 0)
+		(size 43.18 25.4)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 255 0 0 1)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "babdc927-215e-4516-aafb-b92e9e710d01")
+	)
+	(text_box "VFO  OL"
+		(exclude_from_sim no)
+		(at 110.49 86.36 0)
+		(size 35.56 25.4)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.635)
+			)
+		)
+		(uuid "c2afd3b4-5f6d-45d0-babb-bbec580790f5")
+	)
+	(text_box "FI9MHZ\n"
+		(exclude_from_sim no)
+		(at 105.41 30.48 0)
+		(size 40.64 29.21)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 15 87 10 1)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.635)
+				(color 78 255 75 1)
+			)
+		)
+		(uuid "f5700c00-55fd-442c-a5c9-e3d817a37e81")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
